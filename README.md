@@ -7,6 +7,8 @@
 
 三，[Rust P2P网络应用实战-3 分布式键值存储程序](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484801&idx=1&sn=b7af50e76445720ef8ef288afcfd458e&chksm=cfc2a8e2f8b521f417611fd07659525db51fd5a1cd74b8795ba5f692895a1b1f35481fcd5a7d&token=1377655978&lang=zh_CN#rd)  
 
+四，[Rust P2P网络应用实战-4 文件共享项目(一)](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484842&idx=1&sn=0c4271d47ec85db372d782653c3cbf4e&chksm=cfc2a8c9f8b521df92c71a33a221d5821a0dfc43692960200152e5bc7407c348332d6c7d7ac7&token=769037388&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
