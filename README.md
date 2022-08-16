@@ -11,6 +11,8 @@
 
 五，[Rust P2P网络应用实战-5 文件共享项目(二)](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484857&amp;idx=1&amp;sn=e65d56376f51445f630ee4d0f3938a90&amp;chksm=cfc2a8daf8b521ccbc0ab1ee6fbf335f53aa9120c57523ddebcf6e45e119569780c0359c4233&token=1933399773&lang=zh_CN#rd)  
 
+六，[Rust P2P网络应用实战-6 文件共享项目(三)](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484869&amp;idx=1&amp;sn=a4d34c40520d92945f47f854b656e1c0&amp;chksm=cfc2a8a6f8b521b0a54d53fb348b3159fe57f8a8df8a8ba449e2da31408372d5c01dbfe1371d&token=282490544&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
